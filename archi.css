@@ -1,0 +1,66 @@
+body{
+background-color:olivedrab;
+margin-top: 0px;
+}
+img{
+    width:1350px;
+    height:350px;
+}
+.logo{
+    width:210px;
+    height:75px;
+    position: absolute;
+    /* background-image: linear-gradient(180deg, white,gray, black); */
+    background-color: blanchedalmond;
+    margin:8px 0px 0px 18px;
+    border-radius: 30px 0px 30px 0px;
+    box-shadow: 8px 8px 8px black;
+    /* background-color: transparent; */
+}
+.logo:hover{
+    background-image: linear-gradient(180deg, white,gray, black);
+    box-shadow: none;
+}
+.sec_section{
+    display: flex;
+    flex-direction: row;
+}
+.sec_section img{
+    margin-top: 20px;
+    width:200px;
+    height:200px;
+}
+.img3 {
+    margin-left: 100px;
+    margin-right: 0px;   
+}
+div p{
+    width:55%;
+    margin-left: 120px;
+    font-size: 18px;
+    margin-top: 60px;
+    /* display: inline; */
+}
+.img5{
+    margin-left: 100px;
+}
+.para-2 {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 18px;
+}
+.para-1 {
+    text-align: center;
+}
+.last_section p{
+    margin-top: 0px;
+    width:200px;
+    margin-left: 0px;
+     display: inline-block;
+    /* flex-direction: row; */ 
+}
+.last{
+ float: right;   
+ margin-top: 0px;
+ display: inline;
+}
