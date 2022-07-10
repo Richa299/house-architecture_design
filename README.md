@@ -1,6 +1,6 @@
 # house-architecture_design
 
-This is an practice Assignment in which a simple static web page is created which displays a architectural companny's real-word projects displayed on website!
+This is an practice Assignment in which a simple static web page is created which displays a architectural company's real-word projects displayed on website!
 
 Images are attached for reference & download purpose as well in images folder.
 
