@@ -9,4 +9,4 @@ HTML code is in index.html file & the CSS styling is done in the archi.css file 
 
 
 
-<img  src="https://user-images.githubusercontent.com/75996638/178135204-1f794a70-773d-4225-820b-bb3c3e0d2b58.png">
+<img  src="https://user-images.githubusercontent.com/75996638/178317086-a88e4cc9-e450-40f8-9bc8-839510e5f283.png">
